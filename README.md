@@ -1,4 +1,4 @@
-## Mathematical modeling
+## Modeling (statistical models, inference algorithms, mathematical modeling)
 
 * Implementation of the approximate analytical method and numerical algorithms of the first and second orders of accuracy in solving the Cauchy problem for ODEs.
 
